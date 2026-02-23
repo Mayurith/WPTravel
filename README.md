@@ -1,2 +1,2 @@
-# WPTravel
-This repository for create Tour plugin
+# Wonderly
+This repository for create Tour Theme
